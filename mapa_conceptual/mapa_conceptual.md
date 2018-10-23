@@ -1,19 +1,19 @@
 ---
-layout: instructor
+layout: default
 ---
-## Conversatorio Anemia en el Perú | Programa 
-* Fecha: Sábado 22 de Setiembre del 2018
-* Lugar: Campus La Molina - Universidad Peruana Cayetano Heredia 
-
-|Hora | Sábado 22                                                               | 
-|:----|:------------------------------------------------------------------------|
-|17:00|Bienvenida                                                               |
-|17:10|Panel de Expertos                                                        |
-|17:10|Dra. Maria Marull (Jefa de la carrera de Nutrición UPCH)                 |
-|17:30|Dra. Delia Haustein (Directora Ejecutiva ONG Prisma)                     |
-|17:50|Dr.  Mario Tavera (Consultor en programas de salud materno infantil)     |
-|18:10|Ronda de Preguntas                                                       |
-|19:00|Agradecimientos                                                          |
-
+<div class="blurb">
+<h3 align="center">La anemia por deficiencia de hierro: estrategias de la OPS/OMS para combatirla</h3>
+</p><p align="justify">En este artículo nos hablan sobre la magnitud del problema, principalmente en el continente americano, también sobre los acuerdos internacionales que se han dado para reducir los niveles de anemia. La solución que se propone es en resumen la fortificación de un alimento de consumo masivo, de bajo costo y disponible en el mercado, y en la entrega de suplementos con hierro a mujeres embarazadas y a niños menores de dos años. Además, menciona que ambas intervenciones deben ir acompañadas de actividades de promoción a través de los medios de comunicación, vigilancia epidemiológica y sistemas de garantía de calidad, para hacer un seguimiento del programa y medir el impacto. 
+También cabe destacar que en el artículo se menciona distintas medidas o aspectos que recomienda la OPS/OMS a fin de contar con los elementos necesarios para formular una propuesta integral, en otras palabras, para que el proyecto que postulemos sea más eficaz y cumpla con su meta. Algunos de estos aspectos son compromiso político, estudio de factibilidad, etc.
+*OPS (Organización Panamericana de la Salud) 
+*OMS (Organización Mundial de la Salud)
+<h3 align="center">Anemia ferropénica. Normas de diagnóstico y tratamiento</h3>
+</p><p align="justify">Este PDF es principalmente sobre los distintos tratamientos que hay para la anemia y nos explican en que momento es aplicable ese tratamiento. Los tratamientos que son presentados son: Corrección de la causa primaria, que en este caso sería la administración de una dieta adecuada. Luego está la administración del hierro, vía oral y vía parenteral (vía distinta del conducto gastrointestinal) También está la transfusión de sangre y por última la profilaxis de hierro.
+<h3 align="center">Análisis farmacoeconómico del tratamiento de la deficiencia de hierro con hierro carboximaltosa (Ferinject®) en España</h3>
+</p><p align="justify">Este artículo es sobre una comparación de costos entre la administración de hierro carboximaltosa, con el hierro dextrano y hierro sacarosa. Lo que quería destacar sobre este artículo era el uso del hierro carboximaltosa, el hierro dextrano y el hierro sacarosa. Por ejemplo, el hierro sacarosa se usa cuando se presenta una deficiencia de hierro en la cual es necesaria una sustitución rápida y segura del mineral, en particular, en casos graves de deficiencia de hierro por pérdida de sangre antes y después de cirugías, etc. Según MedlinePlus el hierro sacarosa, restablece los depósitos de hierro de manera que el cuerpo pueda producir más glóbulos rojos. El hierro carboximaltosa y el hierro dextrano, cumplen con una función similar.
+<h3 align="center">Uso preoperatorio de hierro endovenoso. Una nueva terapéutica en medicina transfusional</h3>
+</p><p align="justify">Este artículo está más alejado a lo que nos estamos enfocando. Ya que está orientado a personas mayores de 65 años y nos hablan sobre la trasfusión de sangre como método para aumentar los niveles de hemoglobina, después de una cirugía. Sin embargo, lo que se quiere destacar es el uso de la transfusión de sangre como método contra la anemia.
+<h3 align="center">En este artículo nos hablan sobre el clampeo y en el momento que tenemos que hacerlo. Según el estudio que realizaron llegaron a la conclusión que si realizaban un clampeo del cordón umbilical al tercer minuto después del nacimiento presentarán un nivel de ferritina plasmática significativamente mayor que el de los niños con clampeo en los primeros 15 segundos. Sin embargo, no se encontraron diferencias significativas en los niveles de hemoglobina entre los tres grupos.
+</p><p align="justify">Según Lorena Alcázar, investigadora de Grade, en su estudio “Impacto económico de la anemia en el Perú” divide los costos de la anemia en tres causas: pérdida de productividad futura de niños, pérdida de productividad de los adultos que sufren de anemia, y el costo al Estado por el aumento de la repitencia y la atención de partos prematuros. Estos tres puntos le cuesta al Estado el 0,5 - 0.6% del PBI. En el año 2010, la atención a los partos prematuros y sus complicaciones le costaron al Estado el 0.08% del PBIA su vez, el PAN (Presupuesto Articulado Nacioal) dispone de un 29,2% del sector salud para la compra de vacunas y suplementos de Hierro para los niños y para las gestantes.
 ***
 
