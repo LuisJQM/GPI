@@ -10,14 +10,14 @@
     <header class="page-header" role="banner">
       <h1 class="Anemia en el Perú">}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-
-        <a href="/miembros/miembros.md" class="btn">Integrantes</a>
+      {% if site.show_downloads %}
+        <a href=/miembros/miembros.md class="btn">Integrantes</a>
 	<a href="/repositorio/repositorio.html" class="btn">Repositorio de información</a>
         <a href="/entregables/entregable.html" class="btn">Entregables</a>
         <a href="/mapa_conceptual/mapa_conceptual.html" class="btn">Mapa conceptual</a>
         <a href="/bibliografia/bibliografia.html" class="btn">Bibliografía</a>
         <!--<a href="/contact/contact.html" class="btn">Contacto</a>-->
-
+      {% endif %}
     </header>
 
     <main id="content" class="main-content" role="main">
